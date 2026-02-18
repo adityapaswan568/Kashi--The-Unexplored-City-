@@ -161,7 +161,6 @@ Build and Develop Main Core Website
 ## 😎Team 
 **Jayveer Singh** - [@Jayveer-Singh30](https://github.com/Jayveer-Singh30)
 Research and development support 
-
 **Abhishek Pandey** - [@Abhishek250805](https://github.com/Abhishek250805)
 Resources Gathering and Testing 
 
